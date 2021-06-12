@@ -2,7 +2,6 @@
 
 Шумилишский Иу8-22 Лабораторная 7
 
- Tutorial
 
 ```sh
 $ export GITHUB_USERNAME=BogdanBeerDestroyer  
