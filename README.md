@@ -3,7 +3,7 @@
 ## Tutorial
 
 ```sh
-$ export GITHUB_USERNAME=morsiiik  
+$ export GITHUB_USERNAME=BogdanBeerDestroyer  
 $ alias gsed=sed                             #заменяем sed на gsed
 ```
 
