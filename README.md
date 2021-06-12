@@ -1,6 +1,7 @@
-#Шумилишский Иу8-22 Лабораторная 7
+[![Build Status](https://travis-ci.org/BogdanBeerDestroyer/lab07.svg?branch=master)](https://travis-ci.org/BogdanBeerDestroyer/lab07)
 
-## Tutorial
+Шумилишский Иу8-22 Лабораторная 7
+
 
 ```sh
 $ export GITHUB_USERNAME=BogdanBeerDestroyer  
